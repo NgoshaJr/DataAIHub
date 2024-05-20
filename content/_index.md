@@ -52,27 +52,29 @@ sections:
   content:
     date_format: Jan 2006
     items:
-    - company: GenCoin
+    - company: TAFIRI
       company_logo: org-gc
       company_url: ""
       date_end: ""
-      date_start: "2021-01-01"
+      date_start: "2015-03-01"
       description: |2-
           Responsibilities include:
 
-          * Analysing
-          * Modelling
-          * Deploying
-      location: California
-      title: CEO
-    - company: University X
+          * Research Data Management
+          * Web and System Development
+          * Cyber security
+          * GIS and Remote Sensing
+          * Data Analysis
+      location: Dar es Salaam
+      title: ICT 
+    - company: DataAI Hub
       company_logo: org-x
       company_url: ""
-      date_end: "2020-12-31"
-      date_start: "2016-01-01"
-      description: Taught electronic engineering and researched semiconductor physics.
-      location: California
-      title: Professor of Semiconductor Physics
+      date_end: ""
+      date_start: "2020-01-01"
+      description: Develop AI-Solution Models.
+      location: Dar es Salaam
+      title: Data Scientist
     title: Experience
   design:
     columns: "2"
@@ -82,13 +84,14 @@ sections:
     items:
     - certificate_url: https://www.coursera.org
       date_end: ""
-      date_start: "2021-01-25"
+      date_start: "2023-10-25"
       description: ""
       icon: coursera
-      organization: Coursera
+      organization: Twente University and UDSM
       organization_url: https://www.coursera.org
-      title: Neural Networks and Deep Learning
+      title: Soil moisture and Inland water monitoring with radar satellite
       url: ""
+     
     - certificate_url: https://www.edx.org
       date_end: ""
       date_start: "2021-01-01"
@@ -98,6 +101,7 @@ sections:
       organization_url: https://www.edx.org
       title: Blockchain Fundamentals
       url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+      
     - certificate_url: https://www.datacamp.com
       date_end: "2020-12-21"
       date_start: "2020-07-01"
@@ -140,7 +144,7 @@ sections:
       tag: '*'
     - name: Deep Learning
       tag: Deep Learning
-    - name: Other
+    - name: Earth Observation
       tag: Demo
     default_button_index: 0
     filters:
@@ -202,12 +206,12 @@ sections:
 - block: contact
   content:
     address:
-      city: Stanford
+      city: 
       country: United States
       country_code: US
-      postcode: "94305"
-      region: CA
-      street: 450 Serra Mall
+      postcode: ""
+      region: Dar es Salaam
+      street: 102 Kinondoni
     appointment_url: https://calendly.com
     autolink: true
     contact_links:
@@ -224,10 +228,10 @@ sections:
       link: https://zoom.com
       name: Zoom Me
     coordinates:
-      latitude: "37.4275"
-      longitude: "-122.1697"
-    directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-    email: test@example.org
+      latitude: "-6.699"
+      longitude: "39.20"
+    directions: Mbezi Beach Africana, PLT 202 A
+    email: info@dataai.org
     form:
       formspree:
         id: null
@@ -235,9 +239,9 @@ sections:
         captcha: false
       provider: netlify
     office_hours:
-    - Monday 10:00 to 13:00
-    - Wednesday 09:00 to 10:00
-    phone: 888 888 88 88
+    - Monday 10:00 to Friday 13:00
+    
+    phone: +255 758719794
     subtitle: null
     text: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis
       ut magna et, vehicula efficitur enim.

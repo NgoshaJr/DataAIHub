@@ -3,9 +3,9 @@ bio: My research interests include distributed robotics, mobile computing and pr
   matter.
 education:
   courses:
-  - course: PhD in Earth Science
+  - course: PhD in Earth Science (On Demand)
     institution: University of Western Australia (UWA)
-    year: 2024
+    year: 2024 
   - course: MSc in Data Science
     institution: University of Dar es Salaam (UDSM)
     year: 2021
@@ -74,19 +74,19 @@ social:
   icon: twitter
   icon_pack: fab
   label: Follow me on Twitter
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/@NgoshaJr3
 - icon: graduation-cap
   icon_pack: fas
   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/NgoshaJr
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.linkedin.com/in/mussa-ngosha-98260013b/
 - icon: cv
   icon_pack: ai
-  link: uploads/resume.pdf
+  link: uploads/Mussa Ngosha-CV.pdf
 status:
   icon: ☕️
 superuser: true
