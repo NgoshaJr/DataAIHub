@@ -60,13 +60,15 @@ sections:
       description: |2-
           Responsibilities include:
 
-          * Research Data Management
+          * Marine Research Data Management
           * Web and System Development
           * Cyber security
           * GIS and Remote Sensing
-          * Data Analysis
+          * Data Analysis and Visualization
+          * Modeling and Forecasting
+          
       location: Dar es Salaam
-      title: ICT 
+      title: ICT Officer
     - company: DataAI Hub
       company_logo: org-x
       company_url: ""
@@ -92,29 +94,191 @@ sections:
       title: Soil moisture and Inland water monitoring with radar satellite
       url: ""
      
-    - certificate_url: https://www.edx.org
+    - certificate_url: https://www.coursera.org
       date_end: ""
-      date_start: "2021-01-01"
-      description: Formulated informed blockchain models, hypotheses, and use cases.
-      icon: edx
-      organization: edX
-      organization_url: https://www.edx.org
-      title: Blockchain Fundamentals
-      url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-      
-    - certificate_url: https://www.datacamp.com
-      date_end: "2020-12-21"
-      date_start: "2020-07-01"
+      date_start: "2022-07-25"
       description: ""
-      icon: datacamp
-      organization: DataCamp
-      organization_url: https://www.datacamp.com
-      title: Object-Oriented Programming in R
+      icon: coursera
+      organization: AI4D Lab, University of Dodoma
+      organization_url: https://www.coursera.org
+      title: Machine Learning, Deep Learning, and Natural Language Processing 
       url: ""
-    subtitle: null
-    title: Accomplish&shy;ments
-  design:
-    columns: "2"
+      
+    - certificate_url: https://www.coursera.org
+      date_end: ""
+      date_start: "2022-11-25"
+      description: ""
+      icon: coursera
+      organization: CSIRO, University of Queensland, Brisbane, Australia
+      organization_url: https://www.coursera.org
+      title: Seagrass and Benthic habitat mapping 
+      url: ""
+      
+    - certificate_url: https://www.coursera.org
+      date_end: ""
+      date_start: "2022-09-09"
+      description: ""
+      icon: coursera
+      organization: IORA Blue Carbon Hub, Perth, University of Western Australia 
+      organization_url: https://www.coursera.org
+      title: Early Career Visiting Professionals on Blue Carbon Ecosystems
+
+      url: ""
+    - certificate_url: https://www.coursera.org
+      date_end: ""
+      date_start: "2021-11-26"
+      description: ""
+      icon: coursera
+      organization: Abidjan, Cote D’Ivoire
+      organization_url: https://www.coursera.org
+      title: Geospatial Innovation & Science for Africa's growth and Sustainable Development 
+      url: ""
+      
+    - certificate_url: https://www.coursera.org
+      date_end: ""
+      date_start: "2020-11-19"
+      description: ""
+      icon: coursera
+      organization: SASSCAL, South Africa
+      organization_url: https://www.coursera.org
+      title: Earth Observation for Wetland’s Assessment, Monitoring, and Management 
+      url: ""
+      
+    - certificate_url: https://www.coursera.org
+      date_end: ""
+      date_start: "2020-10-19"
+      description: ""
+      icon: coursera
+      organization: ESRI
+      organization_url: https://www.coursera.org
+      title: Spatial Data Science hosted by Environmental Systems Research Institute (ESRI) 
+      url: ""
+    - certificate_url: https://www.coursera.org
+      date_end: ""
+      date_start: "2019-08-03"
+      description: ""
+      icon: coursera
+      organization: ESRI
+      organization_url: https://www.coursera.org
+      title: Application of Earth Observation (EO) using Digital Earth Africa (DEA) platform 
+      url: ""
+    - certificate_url: https://www.coursera.org
+      date_end: ""
+      date_start: "2020-10-07"
+      description: ""
+      icon: coursera
+      organization: Tanzania Data Lab, University of Dar es Salaam
+      organization_url: https://www.coursera.org
+      title: GIS for Education Access in Tanzania 
+      url: ""
+    - certificate_url: https://www.coursera.org
+      date_end: ""
+      date_start: "2020-08-07"
+      description: ""
+      icon: coursera
+      organization: CoICT, University of Dar es Salaam
+      organization_url: https://www.coursera.org
+      title: Geospatial Data Management
+      url: ""
+      
+    - certificate_url: https://www.coursera.org
+      date_end: ""
+      date_start: "2020-03-07"
+      description: ""
+      icon: coursera
+      organization: Institute of Marine Science, University of Dar es Salaam
+      organization_url: https://www.coursera.org
+      title: Regional Workshop on Stock Assessment and Estimation of SDG Indicator 14.4.1 using R
+      url: ""
+    - certificate_url: https://www.coursera.org
+      date_end: ""
+      date_start: "2019-10-07"
+      description: ""
+      icon: coursera
+      organization: IIOAS, Tehran, Iran
+      organization_url: https://www.coursera.org
+      title: Remote Sensing and GIS of Coral Reefs
+      url: ""
+      
+    - certificate_url: https://www.coursera.org
+      date_end: ""
+      date_start: "2019-08-02"
+      description: ""
+      icon: coursera
+      organization: KEMFRI, Kenya
+      organization_url: https://www.coursera.org
+      title:  Operational Physical Oceanography
+      url: ""
+      
+    - certificate_url: https://www.coursera.org
+      date_end: ""
+      date_start: "2019-06-24"
+      description: ""
+      icon: coursera
+      organization: University of Wollongong, NSW
+      organization_url: https://www.coursera.org
+      title: Ocean Management; Sustainable Fisheries and Governance
+      url: ""
+      
+    - certificate_url: https://www.coursera.org
+      date_end: ""
+      date_start: "2019-09-29"
+      description: ""
+      icon: coursera
+      organization: Institute of Marine Science, UDSM
+      organization_url: https://www.coursera.org
+      title: Using Satellite Data and GIS for Sustainable Management of Marine Resources 
+      url: ""
+      
+    - certificate_url: https://www.coursera.org
+      date_end: ""
+      date_start: "2019-09-29"
+      description: ""
+      icon: coursera
+      organization: KEMFRI, Kenya
+      organization_url: https://www.coursera.org
+      title: Marine Spatial Planning (MSP) 
+      url: ""
+      
+    - certificate_url: https://www.coursera.org
+      date_end: ""
+      date_start: "2017-09-09"
+      description: ""
+      icon: coursera
+      organization: TAFIRI, Tanzania
+      organization_url: https://www.coursera.org
+      title: Author AID Proposal and Research Writing
+      url: ""
+      
+    - certificate_url: https://www.coursera.org
+      date_end: ""
+      date_start: "2017-09-09"
+      description: ""
+      icon: coursera
+      organization: University of Ghana
+      organization_url: https://www.coursera.org
+      title: Copernicus Data Stream (CDS) for Ocean Application in Africa
+      url: ""
+      
+    - certificate_url: https://www.coursera.org
+      date_end: ""
+      date_start: "2017-07-09"
+      description: ""
+      icon: coursera
+      organization: KEMFRI, Kenya
+      organization_url: https://www.coursera.org
+      title: Marine Research Data Management
+      url: ""
+    - certificate_url: https://www.coursera.org
+      date_end: ""
+      date_start: "2017-03-08"
+      description: ""
+      icon: coursera
+      organization: TAFIRI, Tanzania
+      organization_url: https://www.coursera.org
+      title: Manipulation of Raster and Vector Datasets and Terrain Modelling using GIS
+      url: ""
+      
 - block: collection
   content:
     count: 5

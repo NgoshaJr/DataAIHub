@@ -17,10 +17,11 @@ highlight_name: true
 interests:
 - Artificial Intelligence
 - Machine Learning
-- Computer Vision
-- Earth Observation
-- Big Data Analytics
-- Oceanography
+- Deep Learning
+- Natural Language Processing
+- GIS and Remote Sensing
+- Physical Oceanography
+- Blue Carbon Ecosystems
 
 last_name: Ngosha
 name_pronunciation: Mussa Ngosha
